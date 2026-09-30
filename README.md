@@ -340,3 +340,11 @@ This project is intended for:
 Do not use the tool to access, test, or interact with systems or websites without appropriate authorization.
 
 The result produced by this tool is an indicator-based assessment and should not be considered a definitive determination that a URL is malicious or safe.
+
+#👨‍💻 Author
+
+ATEMLEFAC NKAFU BECHEM
+
+Cybersecurity Engineer
+
+Cybersecurity #Python #URL safety checker #Cryptography #KaliLinux #EthicalHacking #CyberSecurityInternship #SAMAITechnologies
